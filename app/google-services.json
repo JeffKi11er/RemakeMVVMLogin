@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707906821242",
+    "firebase_url": "https://remakemvvmlogin.firebaseio.com",
+    "project_id": "remakemvvmlogin",
+    "storage_bucket": "remakemvvmlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707906821242:android:aaffc8eb0a48d4373e2fc3",
+        "android_client_info": {
+          "package_name": "com.example.remakemvvmlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707906821242-tm9i7hrclv8326od70muma56tt0k5aum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxzKcDgqCEqGwLQYnJ3uvIziDpDFkFrPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707906821242-tm9i7hrclv8326od70muma56tt0k5aum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
